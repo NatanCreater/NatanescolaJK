@@ -1,5 +1,5 @@
 body{
- background-color: rgba(231, 200, 23, 0.938);
+ background-color: rgba(238, 207, 30, 0.938);
 }
 .tabela1{
     width: 2500px;
@@ -9,4 +9,13 @@ body{
 }
 .mododepreparo1{
     font-size: 175%;
+}
+.mododepreparo2{
+    font-size: 175%
+}
+h1 {
+    color: rgb(128, 58, 9);
+}
+.tamanho{
+    font-size: 250%;
 }
